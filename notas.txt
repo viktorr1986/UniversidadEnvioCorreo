@@ -1,0 +1,10 @@
+https://www.youtube.com/watch?v=10_PpcLRaHk
+
+Nombre de usuario : universidad
+Correo electrónico: trabajos347empresa@gmail.com
+Contraseña: 1234
+
+
+El envio del correo aun no funciona
+Problemas con el correo y permisos que se deben solicitar para que funcione bien la aplicacion
+A la hora de enviar el correo
